@@ -1,0 +1,18 @@
+{
+    "produtos" : [
+        {
+            "id": 1,
+            "descricao": "Tenis Nike Esportivo",
+            "valorUnitario": 500,
+            "estoque": 100,
+            "img": ""
+        },
+        {
+            "id": 2,
+            "descricao": "Tenis Adidas Esportivo",
+            "valorUnitario": 600,
+            "estoque": 120,
+            "img": ""
+        }
+    ]
+}
